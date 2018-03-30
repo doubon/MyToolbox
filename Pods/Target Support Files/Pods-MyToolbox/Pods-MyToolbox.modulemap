@@ -1,0 +1,6 @@
+framework module Pods_MyToolbox {
+  umbrella header "Pods-MyToolbox-umbrella.h"
+
+  export *
+  module * { export * }
+}
